@@ -2,4 +2,20 @@
 
 ## _Real Time Q&A service_
 
-### **Admin**
+### Tech Stack
+
+> React <br/>
+> JavaScript <br/>
+> Bootstrap <br/>
+
+### **User Management**
+
+-
+
+### **Board Management**
+
+-
+
+### **Chat Management**
+
+-
